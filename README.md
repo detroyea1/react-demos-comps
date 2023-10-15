@@ -1,5 +1,5 @@
 # react-demos-comps
-Collection of components to showcase a best practices for basic react features
+Collection of components to serve as a common baseline for implementing basic react features
 
 The following techniques/tools can be found in these respective components
 
