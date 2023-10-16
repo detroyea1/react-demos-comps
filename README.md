@@ -1,5 +1,5 @@
 # react-demos-comps
-Collection of components to serve as a common baseline for implementing basic react features
+Collection of components to serve as a common baseline for implementing basic react features. As shown on the Udemy course "Modern React with Redux" ([link](https://www.udemy.com/course/react-redux/))
 
 The following techniques/tools can be found in these respective components
 
